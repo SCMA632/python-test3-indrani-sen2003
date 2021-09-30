@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+datetime
+statsmodels
+sklearn
+statsmodels
+scipy
+plotly
+plotly
+folium
+fitter
