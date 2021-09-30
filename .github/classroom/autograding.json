@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "python test3",
+      "setup": "sudo -H pip3 install pytest;sudo -H pip3 install pandas;sudo -H pip3 install numpy; sudo -H pip3 install matplotlib;sudo -H pip3 install seaborn;sudo -H pip3 install datetime;sudo -H pip3 install statsmodels;sudo -H pip3 install sklearn;sudo -H pip3 install scipy;sudo -H pip3 install plotly;sudo -H pip3 install folium;sudo -H pip3 install fitter;",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
